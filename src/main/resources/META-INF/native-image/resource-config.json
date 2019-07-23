@@ -1,0 +1,24 @@
+{
+  "resources":[
+    {"pattern":"META-INF/services/javax.xml.parsers.DocumentBuilderFactory"}, 
+    {"pattern":"META-INF/services/org.eclipse.jetty.http.HttpFieldPreEncoder"}, 
+    {"pattern":"javax/servlet/LocalStrings.properties"}, 
+    {"pattern":"javax/servlet/http/LocalStrings.properties"}, 
+    {"pattern":"org/apache/derby/impl/jdbc/metadata.properties"}, 
+    {"pattern":"org/apache/derby/impl/sql/catalog/metadata_net.properties"}, 
+    {"pattern":"org/apache/derby/loc/m13_en.properties"}, 
+    {"pattern":"org/apache/derby/loc/m16_en.properties"}, 
+    {"pattern":"org/apache/derby/loc/m18_en.properties"}, 
+    {"pattern":"org/apache/derby/loc/m25_en.properties"}, 
+    {"pattern":"org/apache/derby/loc/m26_en.properties"}, 
+    {"pattern":"org/apache/derby/loc/m2_en.properties"}, 
+    {"pattern":"org/apache/derby/loc/m34_en.properties"}, 
+    {"pattern":"org/apache/jackrabbit/core/config/repository-1.4.dtd"}, 
+    {"pattern":"org/apache/jackrabbit/core/nodetype/builtin_nodetypes.xml"}, 
+    {"pattern":"org/apache/jackrabbit/core/repository.properties"}, 
+    {"pattern":"org/eclipse/jetty/http/encoding.properties"}, 
+    {"pattern":"org/eclipse/jetty/http/mime.properties"}, 
+    {"pattern":"org/eclipse/jetty/version/build.properties"}, 
+    {"pattern":"org/slf4j/impl/StaticLoggerBinder.class"}
+  ]
+}

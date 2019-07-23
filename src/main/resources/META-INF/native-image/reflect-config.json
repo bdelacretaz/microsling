@@ -1,0 +1,973 @@
+[
+{
+  "name":"java.lang.Boolean",
+  "methods":[{"name":"valueOf","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"java.lang.Byte",
+  "methods":[{"name":"valueOf","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"java.lang.Double",
+  "methods":[{"name":"valueOf","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"java.lang.Float",
+  "methods":[{"name":"valueOf","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"java.lang.Integer",
+  "methods":[{"name":"valueOf","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"java.lang.Long",
+  "methods":[{"name":"valueOf","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"java.lang.Short",
+  "methods":[{"name":"valueOf","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"java.lang.management.ManagementFactory",
+  "methods":[{"name":"getRuntimeMXBean","parameterTypes":[] }]
+},
+{
+  "name":"java.lang.management.RuntimeMXBean",
+  "methods":[{"name":"getUptime","parameterTypes":[] }]
+},
+{
+  "name":"java.math.BigDecimal",
+  "methods":[
+    {"name":"precision","parameterTypes":[] }, 
+    {"name":"toPlainString","parameterTypes":[] }
+  ]
+},
+{
+  "name":"java.util.concurrent.locks.ReentrantLock",
+  "methods":[
+    {"name":"<init>","parameterTypes":["boolean"] }, 
+    {"name":"lock","parameterTypes":[] }, 
+    {"name":"unlock","parameterTypes":[] }
+  ]
+},
+{
+  "name":"javax.jcr.Repository"
+},
+{
+  "name":"javax.naming.Context"
+},
+{
+  "name":"org.apache.derby.catalog.SystemProcedures",
+  "allPublicMethods":true
+},
+{
+  "name":"org.apache.derby.catalog.types.IndexDescriptorImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.catalog.types.RoutineAliasInfo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.catalog.types.TypeDescriptorImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.catalog.types.TypesImplInstanceGetter",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.catalog.types.UserDefinedTypeIdImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.database.Database"
+},
+{
+  "name":"org.apache.derby.exe.ac004b0019x016cx1f46x9c37x00001ad518880",
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"g0","parameterTypes":[] }
+  ]
+},
+{
+  "name":"org.apache.derby.exe.ac004b0019x016cx1f46x9c37x00001ad518881",
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"g0","parameterTypes":[] }
+  ]
+},
+{
+  "name":"org.apache.derby.exe.ac004b0019x016cx1f46x9c37x00001ad518882",
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"g0","parameterTypes":[] }
+  ]
+},
+{
+  "name":"org.apache.derby.exe.ac004b0019x016cx1f46x9c37x00001ad518883",
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"g0","parameterTypes":[] }
+  ]
+},
+{
+  "name":"org.apache.derby.exe.ac004b0019x016cx1f46x9c37x00001ad518884",
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"g0","parameterTypes":[] }
+  ]
+},
+{
+  "name":"org.apache.derby.exe.ac004b0019x016cx1f46x9c37x00001ad518885",
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"e10","parameterTypes":[] }, 
+    {"name":"e11","parameterTypes":[] }, 
+    {"name":"e12","parameterTypes":[] }, 
+    {"name":"e13","parameterTypes":[] }, 
+    {"name":"e14","parameterTypes":[] }, 
+    {"name":"e15","parameterTypes":[] }, 
+    {"name":"e16","parameterTypes":[] }, 
+    {"name":"e17","parameterTypes":[] }, 
+    {"name":"e18","parameterTypes":[] }, 
+    {"name":"e19","parameterTypes":[] }, 
+    {"name":"e20","parameterTypes":[] }, 
+    {"name":"e21","parameterTypes":[] }, 
+    {"name":"e22","parameterTypes":[] }
+  ]
+},
+{
+  "name":"org.apache.derby.exe.ac004b0019x016cx1f46x9c37x00001ad518886",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.exe.ac004b0019x016cx1f46x9c37x00001ad518887",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.exe.ac601a400fx016cx1f46x9c37x00001ad518880",
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"g0","parameterTypes":[] }
+  ]
+},
+{
+  "name":"org.apache.derby.exe.ac601a400fx016cx1f46x9c37x00001ad518881",
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"g0","parameterTypes":[] }
+  ]
+},
+{
+  "name":"org.apache.derby.exe.ac601a400fx016cx1f46x9c37x00001ad518882",
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"g0","parameterTypes":[] }
+  ]
+},
+{
+  "name":"org.apache.derby.exe.ac601a400fx016cx1f46x9c37x00001ad518883",
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"g0","parameterTypes":[] }
+  ]
+},
+{
+  "name":"org.apache.derby.exe.ac601a400fx016cx1f46x9c37x00001ad518884",
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"g0","parameterTypes":[] }
+  ]
+},
+{
+  "name":"org.apache.derby.exe.ac601a400fx016cx1f46x9c37x00001ad518885",
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"e10","parameterTypes":[] }, 
+    {"name":"e11","parameterTypes":[] }, 
+    {"name":"e12","parameterTypes":[] }, 
+    {"name":"e13","parameterTypes":[] }, 
+    {"name":"e14","parameterTypes":[] }, 
+    {"name":"e15","parameterTypes":[] }, 
+    {"name":"e16","parameterTypes":[] }, 
+    {"name":"e17","parameterTypes":[] }, 
+    {"name":"e18","parameterTypes":[] }, 
+    {"name":"e19","parameterTypes":[] }
+  ]
+},
+{
+  "name":"org.apache.derby.exe.ac601a400fx016cx1f46x9c37x00001ad518886",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.exe.ac601a400fx016cx1f46x9c37x00001ad518887",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.iapi.jdbc.AuthenticationService"
+},
+{
+  "name":"org.apache.derby.iapi.jdbc.ResourceAdapter"
+},
+{
+  "name":"org.apache.derby.iapi.services.cache.CacheFactory"
+},
+{
+  "name":"org.apache.derby.iapi.services.cache.ClassSizeCatalog",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.iapi.services.compiler.JavaFactory"
+},
+{
+  "name":"org.apache.derby.iapi.services.daemon.DaemonFactory"
+},
+{
+  "name":"org.apache.derby.iapi.services.io.FormatableHashtable",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.iapi.services.io.FormatableInstanceGetter"
+},
+{
+  "name":"org.apache.derby.iapi.services.io.FormatableIntHolder",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.iapi.services.loader.ClassFactory"
+},
+{
+  "name":"org.apache.derby.iapi.services.locks.LockFactory"
+},
+{
+  "name":"org.apache.derby.iapi.services.property.PropertyFactory"
+},
+{
+  "name":"org.apache.derby.iapi.services.property.PropertyValidation",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.iapi.sql.LanguageFactory"
+},
+{
+  "name":"org.apache.derby.iapi.sql.compile.NodeFactory"
+},
+{
+  "name":"org.apache.derby.iapi.sql.compile.OptimizerFactory"
+},
+{
+  "name":"org.apache.derby.iapi.sql.compile.TypeCompilerFactory"
+},
+{
+  "name":"org.apache.derby.iapi.sql.conn.LanguageConnectionFactory"
+},
+{
+  "name":"org.apache.derby.iapi.sql.dictionary.DataDictionary"
+},
+{
+  "name":"org.apache.derby.iapi.sql.execute.ExecutionFactory"
+},
+{
+  "name":"org.apache.derby.iapi.store.access.AccessFactory"
+},
+{
+  "name":"org.apache.derby.iapi.store.access.ColumnOrdering"
+},
+{
+  "name":"org.apache.derby.iapi.store.access.conglomerate.MethodFactory"
+},
+{
+  "name":"org.apache.derby.iapi.store.raw.ContainerKey"
+},
+{
+  "name":"org.apache.derby.iapi.store.raw.RawStoreFactory"
+},
+{
+  "name":"org.apache.derby.iapi.store.raw.data.DataFactory"
+},
+{
+  "name":"org.apache.derby.iapi.store.raw.log.LogFactory"
+},
+{
+  "name":"org.apache.derby.iapi.store.raw.xact.TransactionFactory"
+},
+{
+  "name":"org.apache.derby.iapi.types.DTSClassInfo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.iapi.types.DataTypeDescriptor",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.iapi.types.DataValueFactory"
+},
+{
+  "name":"org.apache.derby.iapi.types.J2SEDataValueFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.iapi.types.Like",
+  "allPublicMethods":true
+},
+{
+  "name":"org.apache.derby.iapi.types.SQLBinary"
+},
+{
+  "name":"org.apache.derby.iapi.types.SQLBoolean"
+},
+{
+  "name":"org.apache.derby.iapi.types.SQLChar"
+},
+{
+  "name":"org.apache.derby.iapi.types.SQLDecimal"
+},
+{
+  "name":"org.apache.derby.iapi.types.SQLInteger"
+},
+{
+  "name":"org.apache.derby.iapi.types.SQLLongint"
+},
+{
+  "name":"org.apache.derby.iapi.types.SQLTimestamp"
+},
+{
+  "name":"org.apache.derby.iapi.types.UserType"
+},
+{
+  "name":"org.apache.derby.impl.db.BasicDatabase",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.io.DirStorageFactory4",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.jdbc.authentication.NoneAuthenticationServiceImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.services.bytecode.BCJava",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.services.cache.CachedItem"
+},
+{
+  "name":"org.apache.derby.impl.services.cache.ClockFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.services.daemon.SingleThreadDaemonFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.services.locks.SinglePool",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.services.reflect.ReflectClassesJava2",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.services.uuid.BasicUUIDGetter",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.GenericLanguageFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.catalog.DD_Version",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.catalog.DataDictionaryImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.AndNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.BaseColumnNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.BinaryRelationalOperatorNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.BooleanConstantNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.BooleanTypeCompiler",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.CallStatementNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.CastNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.CharConstantNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.CharTypeCompiler",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.ColumnReference",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.CurrentRowLocationNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.CursorNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.FromBaseTable",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.FromList",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.FromSubquery",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.IndexToBaseRowNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.IsNullNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.JavaToSQLValueNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.JoinNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.LOBTypeCompiler",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.Level2OptimizerFactoryImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.LikeEscapeOperatorNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.NodeFactoryImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.NotNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.NumericConstantNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.NumericTypeCompiler",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.OrNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.OrderByColumn",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.OrderByList",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.OrderByNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.ParameterNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.Predicate",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.PredicateList",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.ProjectRestrictNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.ResultColumn",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.ResultColumnList",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.RowResultSetNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.SQLToJavaValueNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.ScrollInsensitiveResultSetNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.SelectNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.StaticMethodCallNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.SubqueryList",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.SubqueryNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.TableName",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.TernaryOperatorNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.TypeCompilerFactoryImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.UnionNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.UntypedNullConstantNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.compile.VirtualColumnNode",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.conn.GenericLanguageConnectionFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.sql.execute.GenericExecutionFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.access.PC_XenaVersion",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.access.RllRAMAccessManager",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.access.StorableFormatId"
+},
+{
+  "name":"org.apache.derby.impl.store.access.btree.BranchControlRow",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.access.btree.LeafControlRow",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.access.btree.index.B2I",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.access.btree.index.B2IFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.access.heap.Heap"
+},
+{
+  "name":"org.apache.derby.impl.store.access.heap.HeapClassInfo",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.access.heap.HeapConglomerateFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.access.heap.HeapRowLocation"
+},
+{
+  "name":"org.apache.derby.impl.store.access.sort.ExternalSortFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.raw.RawStore",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.raw.data.AllocPage",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.raw.data.BaseDataFileFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.raw.data.RecordId"
+},
+{
+  "name":"org.apache.derby.impl.store.raw.data.UpdateOperation",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.raw.log.CheckpointOperation",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.raw.log.ChecksumOperation",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.raw.log.LogCounter",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.raw.log.LogRecord",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.raw.log.LogToFile",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.raw.log.ReadOnly",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.raw.xact.BeginXact",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.raw.xact.EndXact",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.raw.xact.TransactionTable",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.raw.xact.TransactionTableEntry",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.raw.xact.XactFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.impl.store.raw.xact.XactId",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.jdbc.EmbeddedDriver",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.derby.jdbc.ResourceAdapterImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.jackrabbit.commons.repository.ProxyRepository"
+},
+{
+  "name":"org.apache.jackrabbit.core.CachingHierarchyManager"
+},
+{
+  "name":"org.apache.jackrabbit.core.HierarchyManagerImpl"
+},
+{
+  "name":"org.apache.jackrabbit.core.ItemManager"
+},
+{
+  "name":"org.apache.jackrabbit.core.NamespaceRegistryImpl"
+},
+{
+  "name":"org.apache.jackrabbit.core.RepositoryImpl"
+},
+{
+  "name":"org.apache.jackrabbit.core.SearchManager"
+},
+{
+  "name":"org.apache.jackrabbit.core.SessionImpl"
+},
+{
+  "name":"org.apache.jackrabbit.core.WorkspaceImpl"
+},
+{
+  "name":"org.apache.jackrabbit.core.config.BeanConfig"
+},
+{
+  "name":"org.apache.jackrabbit.core.config.RepositoryConfig"
+},
+{
+  "name":"org.apache.jackrabbit.core.fs.FileSystemPathUtil"
+},
+{
+  "name":"org.apache.jackrabbit.core.fs.local.LocalFileSystem",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.jackrabbit.core.nodetype.EffectiveNodeType"
+},
+{
+  "name":"org.apache.jackrabbit.core.nodetype.ItemDefinitionImpl"
+},
+{
+  "name":"org.apache.jackrabbit.core.nodetype.NodeDefinitionImpl"
+},
+{
+  "name":"org.apache.jackrabbit.core.nodetype.NodeTypeRegistry"
+},
+{
+  "name":"org.apache.jackrabbit.core.nodetype.ValueConstraint"
+},
+{
+  "name":"org.apache.jackrabbit.core.nodetype.virtual.VirtualNodeTypeStateManager"
+},
+{
+  "name":"org.apache.jackrabbit.core.observation.DelegatingObservationDispatcher"
+},
+{
+  "name":"org.apache.jackrabbit.core.observation.EventConsumer"
+},
+{
+  "name":"org.apache.jackrabbit.core.observation.EventListenerIteratorImpl"
+},
+{
+  "name":"org.apache.jackrabbit.core.observation.ObservationDispatcher"
+},
+{
+  "name":"org.apache.jackrabbit.core.observation.ObservationManagerImpl"
+},
+{
+  "name":"org.apache.jackrabbit.core.persistence.bundle.DerbyPersistenceManager",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.jackrabbit.core.persistence.bundle.util.BundleBinding"
+},
+{
+  "name":"org.apache.jackrabbit.core.persistence.bundle.util.BundleCache"
+},
+{
+  "name":"org.apache.jackrabbit.core.persistence.bundle.util.ConnectionRecoveryManager"
+},
+{
+  "name":"org.apache.jackrabbit.core.persistence.bundle.util.LRUNodeIdCache"
+},
+{
+  "name":"org.apache.jackrabbit.core.persistence.bundle.util.NodePropBundle"
+},
+{
+  "name":"org.apache.jackrabbit.core.query.PreparedQueryImpl"
+},
+{
+  "name":"org.apache.jackrabbit.core.query.PropertyTypeRegistry"
+},
+{
+  "name":"org.apache.jackrabbit.core.query.QueryImpl"
+},
+{
+  "name":"org.apache.jackrabbit.core.query.lucene.AbstractIndex"
+},
+{
+  "name":"org.apache.jackrabbit.core.query.lucene.CachingIndexReader"
+},
+{
+  "name":"org.apache.jackrabbit.core.query.lucene.DefaultHTMLExcerpt"
+},
+{
+  "name":"org.apache.jackrabbit.core.query.lucene.DocNumberCache"
+},
+{
+  "name":"org.apache.jackrabbit.core.query.lucene.IndexMerger"
+},
+{
+  "name":"org.apache.jackrabbit.core.query.lucene.IndexingConfigurationImpl"
+},
+{
+  "name":"org.apache.jackrabbit.core.query.lucene.IndexingQueue"
+},
+{
+  "name":"org.apache.jackrabbit.core.query.lucene.IndexingQueueStore"
+},
+{
+  "name":"org.apache.jackrabbit.core.query.lucene.JackrabbitTextExtractor"
+},
+{
+  "name":"org.apache.jackrabbit.core.query.lucene.MultiIndex"
+},
+{
+  "name":"org.apache.jackrabbit.core.query.lucene.NamePathResolverImpl"
+},
+{
+  "name":"org.apache.jackrabbit.core.query.lucene.Recovery"
+},
+{
+  "name":"org.apache.jackrabbit.core.query.lucene.RedoLog"
+},
+{
+  "name":"org.apache.jackrabbit.core.query.lucene.SearchIndex",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.jackrabbit.core.state.CacheManager"
+},
+{
+  "name":"org.apache.jackrabbit.core.state.DefaultISMLocking",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.jackrabbit.core.state.ItemState"
+},
+{
+  "name":"org.apache.jackrabbit.core.state.ItemStateMap"
+},
+{
+  "name":"org.apache.jackrabbit.core.state.ItemStateReferenceCache"
+},
+{
+  "name":"org.apache.jackrabbit.core.state.MLRUItemStateCache"
+},
+{
+  "name":"org.apache.jackrabbit.core.state.PropertyState"
+},
+{
+  "name":"org.apache.jackrabbit.core.state.SessionItemStateManager"
+},
+{
+  "name":"org.apache.jackrabbit.core.state.SharedItemStateManager"
+},
+{
+  "name":"org.apache.jackrabbit.core.state.StateChangeDispatcher"
+},
+{
+  "name":"org.apache.jackrabbit.core.util.RepositoryLock"
+},
+{
+  "name":"org.apache.jackrabbit.core.value.InternalValue"
+},
+{
+  "name":"org.apache.jackrabbit.core.version.AbstractVersionManager"
+},
+{
+  "name":"org.apache.jackrabbit.core.version.VersionItemStateManager"
+},
+{
+  "name":"org.apache.jackrabbit.core.version.VersionManager"
+},
+{
+  "name":"org.apache.jackrabbit.core.virtual.AbstractVISProvider"
+},
+{
+  "name":"org.apache.jackrabbit.extractor.DefaultTextExtractor"
+},
+{
+  "name":"org.apache.jackrabbit.extractor.HTMLTextExtractor",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.jackrabbit.extractor.MsExcelTextExtractor",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.jackrabbit.extractor.MsPowerPointTextExtractor",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.jackrabbit.extractor.MsWordTextExtractor",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.jackrabbit.extractor.OpenOfficeTextExtractor",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.jackrabbit.extractor.RTFTextExtractor",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.jackrabbit.extractor.XMLTextExtractor",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.jackrabbit.servlet.jackrabbit.JackrabbitRepositoryServlet",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.jackrabbit.spi.commons.conversion.DefaultNamePathResolver"
+},
+{
+  "name":"org.apache.lucene.index.SegmentReader",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.lucene.store.BufferedIndexInput"
+},
+{
+  "name":"org.apache.lucene.store.FSDirectory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.xerces.impl.dv.ObjectFactory"
+},
+{
+  "name":"org.apache.xerces.impl.dv.dtd.DTDDVFactoryImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.xerces.parsers.ObjectFactory"
+},
+{
+  "name":"org.apache.xerces.parsers.XIncludeAwareParserConfiguration",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.eclipse.jetty.util.log.Slf4jLog",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+}
+]
