@@ -1,2 +1,9 @@
 .project
 target
+.classpath
+.settings
+.vscode
+derby.log
+jackrabbit-repository
+logs
+velocity.log
