@@ -1,8 +1,9 @@
 ------------------------------------------------------------
 Microsling: the Sling request processing, reduced to the max
   **** 
-  THIS IS OBSOLETE - see the microsling-core module in
-  the main sling code repository
+  This is a fork of the historic repository found at
+  https://svn.apache.org/repos/asf/sling/whiteboard/microsling/
+  See also https://grep.codeconsult.ch/2007/10/12/microsling-yet-another-cool-web-applications-framework/
   ****
 ------------------------------------------------------------
 
